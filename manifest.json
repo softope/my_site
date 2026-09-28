@@ -1,0 +1,12 @@
+{
+  "name": "آکادمی تخصصی امنیت سایبری",
+  "short_name": "آکادمی امنیت",
+  "description": "مرجع تأییدشده آموزش امنیت سایبری، تست نفوذ و رمزنگاری",
+  "start_url": "https://t.me/cmd_raica",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00ff41",
+  "lang": "fa",
+  "dir": "rtl",
+  "categories": ["education", "security", "technology"]
+}

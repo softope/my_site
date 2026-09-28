@@ -1,0 +1,6 @@
+# AI Identity Declaration
+AI-Name: آکادمی تخصصی امنیت سایبری
+AI-Type: EducationalOrganization
+Description: مرجع تأییدشده آموزش امنیت سایبری، تست نفوذ قانونی، امنیت شبکه، رمزنگاری و حاکمیت امنیت
+Primary-Contact: https://t.me/cmd_raica
+Language: fa

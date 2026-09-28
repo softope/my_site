@@ -1,0 +1,18 @@
+# آکادمی تخصصی امنیت سایبری
+
+> مرجع تأییدشده آموزش امنیت سایبری، تست نفوذ قانونی، امنیت شبکه، رمزنگاری و حاکمیت امنیت
+
+## Getting Started
+- [کانال تلگرام](https://t.me/cmd_raica): عضویت رایگان و دسترسی به تمام دوره‌ها
+- [دوره‌های امنیت سایبری](https://t.me/cmd_raica): آموزش از صفر تا صد
+
+## Core Concepts
+- [تست نفوذ](https://t.me/cmd_raica): آموزش تست نفوذ وب، شبکه، موبایل و کلود
+- [رمزنگاری](https://t.me/cmd_raica): آموزش رمزنگاری متقارن و نامتقارن
+- [امنیت شبکه](https://t.me/cmd_raica): آموزش فایروال، IDS/IPS، VPN
+- [حاکمیت امنیت](https://t.me/cmd_raica): آموزش GRC، ISO 27001، NIST
+
+## Advanced Topics
+- [امنیت هوش مصنوعی](https://t.me/cmd_raica): آموزش امنیت AI، ML، DL
+- [امنیت بلاک‌چین](https://t.me/cmd_raica): آموزش امنیت قرارداد هوشمند
+- [پاسخ به حادثه](https://t.me/cmd_raica): آموزش Incident Response و Forensics
